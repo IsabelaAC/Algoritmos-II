@@ -1,5 +1,3 @@
-# Algoritmos-II
-
 
 <h1 align="center">  Algoritmos em JavaScript curso 2 </h1>
 
