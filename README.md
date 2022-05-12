@@ -4,10 +4,12 @@
 Projetos da formação da plataforma Alura envolvendo a manipulação e conhecimentos sólidos em algoritmos, utilizando JavaScript.
 
   <h4 align="center"> 
-      Projeto em construção  :wrench:
+      Projeto finalizado :heavy_check_mark:
 </h4>
 
 ##  :mag_right: Infraestrutura do Projeto
+
+Consiste em algoritmos de ordenação tais como quickSort, busca binária, encontrar determinados valores em um array.
 
 
 ## 📁 Acesso ao projeto
